@@ -4,14 +4,14 @@ body {
 }
 
 .first-section{
-    background-image: url(/assets/img/detail-first-section3.svg);
+    background-image: url(background/detail-first-section3.svg);
     background-size: COVER;
     background-position: center center;
     background-repeat: no-repeat;
 }
 
 .second-section{
-    background-image: url(/assets/img/img-second-section.svg);
+    background-image: url(background/img-second-section.svg);
 }
 
 .linea {
@@ -22,22 +22,22 @@ body {
   }
 
 .third-section{
-    background-image: url(/assets/img/datos-background.svg);
+    background-image: url(background/datos-background.svg);
     background-repeat: no-repeat;
 }
 
 .fourth-section{
-    background-image: url(/assets/img/marketing-background.svg);
+    background-image: url(background/marketing-background.svg);
     background-repeat: no-repeat;
 }
 
 .fifth-section{
-    background-image: url(/assets/img/operations-background.svg);
+    background-image: url(background/operations-background.svg);
     background-repeat: no-repeat;
 }
 
 ul#tabs li.check {
-    list-style-image: url('/assets/img/check-icon.svg');
+    list-style-image: url('background/check-icon.svg');
     }
 
 /*Form styles*/
